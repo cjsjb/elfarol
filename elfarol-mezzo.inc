@@ -122,6 +122,6 @@
 		"se ha" -- "ya a" -- pa -- ga -- "do el" fa -- rol, __
 		pe -- ro tu lin -- da mi -- ra -- "da i" -- lu -- mi -- na
 		más "que el" Sol. __
-		más "que el" Sol. __
+		"...Más" "que el" Sol. __
 	}
 >> % Staff ends
