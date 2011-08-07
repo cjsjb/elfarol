@@ -43,41 +43,41 @@
 		%% 30
 		e' 8 b 4 ~ b r8  |
 		g' 8 fis' e' fis' e' dis'  |
-		e' 4. ~ e' 8 r r  |
+		e' 4. ~ e' 8 r4  |
 		d' 8 d' fis' a' g' fis'  |
-		g' 4. ~ g' 8 r r  |
+		g' 4. ~ g' 8 r4  |
 		%% 35
 		fis' 8 fis' g' a' g' fis'  |
-		g' 4. ~ g' 8 r r  |
+		g' 4. ~ g' 8 r4  |
 		fis' 8 fis' fis' fis' e' dis'  |
 		e' 8 e' e' e' dis' cis'  |
 		dis' 8 dis' dis' dis' e' fis'  |
 		%% 40
-		g' 4. ~ g' 8 r r  |
+		g' 4. ~ g' 8 r4  |
 		e' 8 e' e' a' g' fis'  |
 		g' 8 g' g' g' g' g'  |
 		fis' 8 fis' fis' fis' e' dis'  |
-		e' 4. ~ e' 8 r r  |
+		e' 4. ~ e' 8 r4  |
 		%% 45
 		d' 8 d' fis' a' g' fis'  |
-		g' 4. ~ g' 8 r r  |
+		g' 4. ~ g' 8 r4  |
 		fis' 8 fis' g' a' g' fis'  |
-		g' 4. ~ g' 8 r r  |
+		g' 4. ~ g' 8 r4  |
 		fis' 8 fis' fis' fis' e' dis'  |
 		%% 50
 		e' 8 e' e' e' dis' cis'  |
 		dis' 8 dis' dis' dis' e' fis'  |
-		g' 4. ~ g' 8 r r  |
+		g' 4. ~ g' 8 r4  |
 		e' 8 e' e' a' g' fis'  |
 		g' 8 g' g' g' g' g'  |
 		%% 55
 		fis' 8 fis' fis' fis' e' dis'  |
-		e' 4. ~ e' 8 r r  |
+		e' 4. ~ e' 8 r4  |
 		dis' 8 dis' e' fis' e' dis'  |
 		e' 8 e' fis' g' fis' e'  |
 		fis' 8 fis' g' a' g' fis'  |
 		%% 60
-		g' 4. ~ g' 8 r r  |
+		g' 4. ~ g' 8 r4  |
 		e' 8 e' e' a' g' fis'  |
 		g' 8 e' e' g' e' r  |
 		fis' 4. fis'  |
@@ -86,7 +86,7 @@
 		R2.*2  |
 		r4 fis' a'  |
 		g' 2. ~  |
-		g' 8 r r r4.  |
+		g' 8 r4 r4.  |
 		\bar "|."
 	} % Voice
 	\lyricsto "voice 3" \new Lyrics \lyricmode {

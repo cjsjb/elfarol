@@ -28,7 +28,7 @@
 		g' 8 g' g' g' 16 fis' e' 8 e'  |
 		dis' 4 dis' dis'  |
 		e' 2. ~  |
-		e' 8 r r r4.  |
+		e' 8 r4 r4.  |
 		\bar "|."
 	} % Voice
 >> % Staff ends
