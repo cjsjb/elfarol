@@ -6,7 +6,7 @@
 	\new Voice \global
 	\new Voice \globalTempo
 
-	\context Voice = "voice 3" {
+	\context Voice = "voz-mezzo" {
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
@@ -89,7 +89,7 @@
 		g' 8 r4 r4.  |
 		\bar "|."
 	} % Voice
-	\lyricsto "voice 3" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		¡Ay, qué pe -- na, ay, qué pe -- na! __
 		Se "me ha a" -- pa -- ga "do el" fa -- rol,
 		fa -- rol "que ha" bí -- "a en" -- cen -- di -- do __
